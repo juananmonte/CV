@@ -3,5 +3,5 @@ theme: jekyll-theme-midnight
 title: Juan Antonio Montenegro Marroquin
 description: Data Scientist on the making, Economist and writter💻
 timezone: Asia/Seoul
-
-email: juanmonte795@gmail.com
+github:
+  is_project_page: false

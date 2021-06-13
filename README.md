@@ -22,14 +22,10 @@ Kookmin University
 ```
 # On the side
 
-```Content creator for teaching Data Science/Machine Learning/Deep Learning/Computer Vision in spanish focusing on low level projects to do with not so potent computers.```
+```
+Content creator for teaching Data Science/Machine Learning/Deep Learning/Computer Vision in spanish focusing on low level projects to do with not so potent computers.
+```
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -40,7 +36,6 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 

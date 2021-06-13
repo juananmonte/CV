@@ -1,14 +1,11 @@
 # Technical Experience
 
 
-
-
-
 #Accomplihments 
 
--2019 Goverment of South Korea Scholarship Recipient
--4th place on inter department Kaggle competition for Machine Learning class 2020
--
+2019 Goverment of South Korea Scholarship Recipient
+4th place on inter department Kaggle competition for Machine Learning class 2020
+
 
 #Languages
 
@@ -19,12 +16,12 @@ Korean: TOPIK
 
 #Education
 
--Universidad Rafael Landivar
--Kookmin University
+Universidad Rafael Landivar
+Kookmin University
 
 #On the side
 
--Content creator for teaching Data Science/Machine Learning/Deep Learning/Computer Vision in spanish focusing on low level projects to do with not so potent computers. 
+Content creator for teaching Data Science/Machine Learning/Deep Learning/Computer Vision in spanish focusing on low level projects to do with not so potent computers. 
 
 
 ```markdown

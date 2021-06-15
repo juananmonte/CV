@@ -1,5 +1,6 @@
 
 # _About me_ 👦
+--------------------------------
 
 I grew up in Guatemala. Earned a degree in Economics from Rafael Landivar University and I am now studying a Data Science master’s degree at Kookmin University in South Korea. 
 
@@ -9,6 +10,7 @@ In the present I focus on using state of the art models in computer vision for s
 
 
 # _Technical Experience_ 💼
+--------------------------------
 
 * **Head of the Statistics Department @ VESTEX** (2017-2019):
 
@@ -22,10 +24,9 @@ In the present I focus on using state of the art models in computer vision for s
 
 
 # _Accomplihments_ 🏆
+--------------------------------
 
 * 2019 Goverment of South Korea Scholarship (GKS) Recipient to study a masters degree on Data Science.
-
-* 
  
 * 2015 1st place in the EduMarketing fair from the Economics Department at Rafael Landivar University for the creation of an educational project for promoting Guatemala abroad.
 
@@ -33,6 +34,7 @@ In the present I focus on using state of the art models in computer vision for s
 
 
 # _Languages_ 💬
+--------------------------------
 
 * Spanish: Native
 
@@ -42,6 +44,7 @@ In the present I focus on using state of the art models in computer vision for s
 
 
 # _Education_ 📚 
+--------------------------------
 
 * **Bachelor degree in Business Economy. Cum Laude**
  [Rafael Landivar University](https://principal.url.edu.gt/) - Guatemala city, Guatemala (2014-2018)
@@ -50,6 +53,7 @@ In the present I focus on using state of the art models in computer vision for s
 [Kookmin University](https://english.kookmin.ac.kr/) - Seoul, South Korea (2020-2022)
 
 # _On the side_ 💻
+--------------------------------
 
 * Content creator for teaching Data Science/ Machine Learning/ Deep Learning/ Computer Vision in spanish. 
 

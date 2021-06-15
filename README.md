@@ -1,48 +1,47 @@
-# Technical Experience
+
+# _Abaut me_ 💬
+
+> I grew up in Guatemala. Earned a degree in Economics from Rafael Landivar University and I am now studying a Data Science master’s degree at Kookmin University in South Korea. Fortunately, my studies are sponsored by the Government of Korea Scholarship (GKS).
+>
+> In the present I focus on using state of the art models in computer vision for security footage. 
 
 
-# Accomplihments 
-```
-2019 Goverment of South Korea Scholarship Recipient
+# _Technical Experience_ 💼
 
-4th place on inter department Kaggle competition for Machine Learning class 2020
-```
-
-# Languages
-```
-Spanish: Native
-English: TOEFL 
-Korean: TOPIK 
-```
-
-# Education
-```
-Universidad Rafael Landivar
-Kookmin University
-```
-# On the side
-
-```
-Content creator for teaching Data Science/Machine Learning/Deep Learning/Computer Vision in spanish focusing on low level projects to do with not so potent computers.
-```
+* **Head of the Statistics Department @ VESTEX** (2017-2019)
+   The Guatemalan Apparel and Textile Association (VESTEX) is a representative entity of the sector that works together to promote the industry's exports through strategic     alliances with public and private institutions at the national and international level. 
+   
+ - Generate and present daily, weekly, monthly and yearly statistics reports of the sector's activity and development. 
+ - Analyze, clean and mantain up to date the sector's exportations and importations databases. 
+ - **Technologies used:** Oracle SQL, R, Oracle Business Intelligence, Excel. 
 
 
-- Bulleted
-- List
+# _Accomplihments_ 🔆
 
-1. Numbered
-2. List
+* 2019 Goverment of South Korea Scholarship (GKS) Recipient to study a masters degree on Data Science.
+* 2015 1st place in the EduMarketing fair from the Economics Department at Rafael Landivar University for the creation of an educational project for promoting Guatemala abroad.
+* 2013 1st place in the International Congress of Science, Technology and Innovation (CONCYT in spanish) for didactic material creation by the National Secretariat of Science and Technology (SENACYT in spanish). The project was a live and interactive representation of the periodic table. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# _Languages_ 📃
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Spanish: Native
+* English: TOEFL iBT Advanced (116 points) 
+* Korean: TOPIK II level 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/juananmonte/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# _Education_ 📚 
 
-### Support or Contact
+* **Bachelor degree in Business Economy**
+ [Rafael Landivar University](https://principal.url.edu.gt/) - Guatemala city, Guatemala (2014-2018)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* **Master degree in Data Science**
+[Kookmin University](https://english.kookmin.ac.kr/) - Seoul, South Korea (2020-2022)
+
+# _On the side_ 💻
+
+* Content creator for teaching Data Science/ Machine Learning/ Deep Learning/ Computer Vision in spanish. 
+  I give more focus on ways to tackle simple or complex projects with low and mid level potency computers. (use of alternative and faster packages for Python, taking advantage of the power of a graphic card with CUDA, use faster alternative packages for image processing like PyAV, and more). 
+
+
+

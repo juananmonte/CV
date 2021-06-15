@@ -2,7 +2,4 @@ theme: jekyll-theme-midnight
 
 title: Juan Antonio Montenegro Marroquin
 description: Data Scientist on the making, Economist and writter💻
-             [Blog](https://lo-que-aprendi-hoy-en-data.ghost.io/ghost/), [email](juanmonte795@gmail.com), [GitHub](https://github.com/juananmonte)
-timezone: Asia/Seoul
-github:
-  is_project_page: false
+description: [Blog](https://lo-que-aprendi-hoy-en-data.ghost.io/ghost/), [email](juanmonte795@gmail.com), [GitHub](https://github.com/juananmonte)

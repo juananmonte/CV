@@ -24,6 +24,8 @@ In the present I focus on using state of the art models in computer vision for s
 # _Accomplihments_ 🏆
 
 * 2019 Goverment of South Korea Scholarship (GKS) Recipient to study a masters degree on Data Science.
+
+* 
  
 * 2015 1st place in the EduMarketing fair from the Economics Department at Rafael Landivar University for the creation of an educational project for promoting Guatemala abroad.
 
@@ -41,7 +43,7 @@ In the present I focus on using state of the art models in computer vision for s
 
 # _Education_ 📚 
 
-* **Bachelor degree in Business Economy**
+* **Bachelor degree in Business Economy. Cum Laude**
  [Rafael Landivar University](https://principal.url.edu.gt/) - Guatemala city, Guatemala (2014-2018)
 
 * **Master degree in Data Science**

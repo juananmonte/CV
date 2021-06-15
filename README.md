@@ -18,11 +18,11 @@ In the present I focus on using state of the art models in computer vision for s
 
    The Guatemalan Apparel and Textile Association (VESTEX) is a representative entity of the sector that works together to promote the industry's exports through strategic     alliances with public and private institutions at the national and international level. 
    
-  - Generate and present daily, weekly, monthly and yearly statistics reports of the sector's activity and development. 
+   * Generate and present daily, weekly, monthly and yearly statistics reports of the sector's activity and development. 
  
-  - Analyze, clean and mantain up to date the sector's exportations and importations databases. 
+   * Analyze, clean and mantain up to date the sector's exportations and importations databases. 
  
-  - **Technologies used:** Oracle SQL, R, Oracle Business Intelligence, Excel. 
+   * **Technologies used:** Oracle SQL, R, Oracle Business Intelligence, Excel. 
 
 
 # _Accomplihments_ 🏆

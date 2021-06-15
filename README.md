@@ -1,5 +1,5 @@
 
-[Blog](https://lo-que-aprendi-hoy-en-data.ghost.io/ghost/)/ [email](juanmonte795@gmail.com)/ [GitHub](https://github.com/juananmonte)
+# [Blog](https://lo-que-aprendi-hoy-en-data.ghost.io/ghost/)/ [email](juanmonte795@gmail.com)/ [GitHub](https://github.com/juananmonte)
 
 
 # _About me_ 👦

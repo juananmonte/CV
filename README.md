@@ -1,9 +1,5 @@
 
-### Contact me: 
-
----------------------------------------
-
-  [Blog](https://lo-que-aprendi-hoy-en-data.ghost.io/ghost/)/ [Email](juanmonte795@gmail.com)/ [GitHub](https://github.com/juananmonte)
+#### Contact me: [Blog](https://lo-que-aprendi-hoy-en-data.ghost.io/ghost/)/ [Email](juanmonte795@gmail.com)/ [GitHub](https://github.com/juananmonte)
 
 
 

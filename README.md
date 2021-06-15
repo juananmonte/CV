@@ -1,5 +1,5 @@
 
-# _Abaut me_ 💬
+# _About me_ 💬
 
 > I grew up in Guatemala. Earned a degree in Economics from Rafael Landivar University and I am now studying a Data Science master’s degree at Kookmin University in South Korea. Fortunately, my studies are sponsored by the Government of Korea Scholarship (GKS).
 >

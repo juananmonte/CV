@@ -27,7 +27,7 @@ In the present I focus on using state of the art models in computer vision for s
  
    * Analyze, clean and mantain up to date the sector's exportations and importations databases. 
  
-   * **Technologies used:** Oracle SQL, R, Oracle Business Intelligence, Excel. 
+   * **Technologies used:**  Python, MySQL, R, Oracle Business Intelligence, Microsoft office.
 
 
 # _Accomplihments_ 🏆
